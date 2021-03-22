@@ -1,12 +1,12 @@
 import random
 
 print(' ')
-print('➖➖➖➖➖➖➖[ BTCCheckGen ]➖➖➖➖➖➖➖')
+print('➖➖➖➖➖➖➖[ BTC-GENERATOR ]➖➖➖➖➖➖➖')
 print(' ')
 print('Генератор чеков для @BTC_CHANGE_BOT')
 print('Скрипт написан для магазина @joys_shop_bot')
 print(' ')
-print('➖➖➖➖➖➖➖[ BTCCheckGen ]➖➖➖➖➖➖➖')
+print('➖➖➖➖➖➖➖[ BTC-GENERATOR ]➖➖➖➖➖➖➖')
 print(' ')
 chars = 'abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'
 number = input('◾ Укажите желаемое количество ссылок для генерации:'+ "\n")
@@ -27,4 +27,4 @@ for n in range(number):
 print(' ')
 print('➕ Больше интересных скриптов вы можете найти в нашем магазине: @joys_shop_bot')
 print()
-toexit = input("[BTCCheckGen] ⚠️ Нажмите любую клавишу для завершения.")
+toexit = input("     ⚠️ Нажмите любую клавишу для завершения.")
